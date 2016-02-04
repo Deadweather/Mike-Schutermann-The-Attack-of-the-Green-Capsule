@@ -1,0 +1,168 @@
+Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 750M   (ID=0xfe9)
+    Vendor:   NVIDIA
+    VRAM:     971 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Mike Shooterman\Main_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Mike Shooterman\Main_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Mike Shooterman\Main_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Mike Shooterman\Main_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading E:\Mike Shooterman\Main_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading E:\Mike Shooterman\Main_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+- Completed reload, in  6.370 seconds
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\IineiStooalerzm ennMaiienv_rsaiaoMa: a5ed3\1S1y(sctcebmc.7bl4 (
+tGisx emiees sraateiin ga mdesvsc) c
+lient; threaded=1
+Direct3D:
+    Veresioto:p D i2r0e10t2D411600[Heze;  1.i0tu
+a l :e de2r0e10:4 aN V,I
+DIA GeFoRr>cI GiTi l50zMng  (iD=p0txf
+e<)R
+ I   Vneun ion:i  iNlVzIdD.A
+  
+  VRAM:     971 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Mike Shooterman\Main_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Mike Shooterman\Main_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Mike Shooterman\Main_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Mike Shooterman\Main_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading E:\Mike Shooterman\Main_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading E:\Mike Shooterman\Main_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+- Completed reload, in  6.092 seconds
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Mike Shooterman\Main_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.505231 ms
+level requested for:HowToPlay
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object 'LevelManager') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.526221 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 249.
+Total: 0.174149 ms (FindLiveObjects: 0.009932 ms CreateObjectMapping: 0.011587 ms MarkObjects: 0.149649 ms  DeleteObjects: 0.002648 ms)
+
+level requested for:Main Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.428420 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 265.
+Total: 0.175804 ms (FindLiveObjects: 0.024500 ms CreateObjectMapping: 0.009932 ms MarkObjects: 0.138061 ms  DeleteObjects: 0.002648 ms)
+
+level requested for:GameT9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.509535 ms
+Scanning - Process took 38 ms to complete
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 528.
+Total: 2.594358 ms (FindLiveObjects: 0.038405 ms CreateObjectMapping: 0.016885 ms MarkObjects: 2.524831 ms  DeleteObjects: 0.003310 ms)
+
+Path Completed : Computation Time 4.00 ms Searched Nodes 88 Path Length 17
+Path Number 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Yay, we got a path back. Did it have an error? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 10b8 -> priority: 1 
+  Thread -> id: 3f8 -> priority: 1 
+End Of Path Reached
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Path Completed : Computation Time 0.00 ms Searched Nodes 25 Path Length 8
+Path Number 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Yay, we got a path back. Did it have an error? False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AstarAI.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AstarAI.Start () [0x00000] in <filename unknown>:0 
+  at AstarAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AstarAI.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AstarAI.Start () [0x00000] in <filename unknown>:0 
+  at AstarAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AstarAI.Start () [0x00000] in <filename unknown>:0 
+  at AstarAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AstarAI.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AstarAI.Start () [0x00000] in <filename unknown>:0 
+  at AstarAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AstarAI.Start () [0x00000] in <filename unknown>:0 
+  at AstarAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at AstarAI.Start () [0x00000] in <filename unknown>:0 
+  at AstarAI.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+

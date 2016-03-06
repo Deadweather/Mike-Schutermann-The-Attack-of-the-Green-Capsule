@@ -21,7 +21,7 @@ public class Press_Space_to_Fire : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
 	{
-		if (Input.GetKeyDown("space"))
+		if (Input.GetMouseButtonDown(0))
 		{
 			//The Bullet instantiation happens here.
 			GameObject Temporary_Bullet_Handler;

@@ -3,25 +3,21 @@ using System.Collections;
 
 public class Press_Space_to_Fire : MonoBehaviour
 {
+
 	//Drag in the Bullet Emitter from the Component Inspector.
 	public GameObject Bullet_Emitter;
 
 	//Drag in the Bullet Prefab from the Component Inspector.
 	public GameObject Bullet;
 
-	//Enter the Speed of the Bullet from the Component Inspector.
-	public float Bullet_Forward_Force;
+    //Enter the Speed of the Bullet from the Component Inspector.
+    public float Bullet_Forward_Force;
 
-	// Use this for initialization
-	void Start ()
+    // Update is called once per frame
+    void Update ()
 	{
 
-	}
-
-	// Update is called once per frame
-	void Update ()
-	{
-		if (Input.GetKeyDown("space"))
+        if (Input.GetMouseButtonDown(0))
 		{
 			//The Bullet instantiation happens here.
 			GameObject Temporary_Bullet_Handler;

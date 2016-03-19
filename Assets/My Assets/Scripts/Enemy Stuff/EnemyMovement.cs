@@ -22,7 +22,12 @@ public class EnemyMovement : MonoBehaviour
 
 
         minRange = 1;
+<<<<<<< HEAD
         speed = 1.5f;       
+=======
+        speed = 0.1f;
+        //target = new Vector3(player.transform.position.x, player.transform.position.y, player.transform.position.z);        
+>>>>>>> origin/master
     }
 
 
@@ -40,6 +45,15 @@ public class EnemyMovement : MonoBehaviour
         rb.AddForce(forwardDirection * speed);
     }
 
+    void OnCollisionEnter(Collision C)
+    {
+        if (C.gameObject.tag=="Player")
+        {
+            Destroy(C.gameObject);
+            SceneManager.LoadScene("Lose");
+        }
+       
+    }
     void OnCollisionEnter(Collision C)
     {
         if (C.gameObject.tag=="Player")
